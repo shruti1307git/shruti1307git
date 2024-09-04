@@ -4,11 +4,7 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor of Computer Applications
 
  Skills & Technologies
  
-->Languages: C, C++, Python, Java
-
-    *Web Development: HTML, CSS, JavaScript
-
-    *Database Management: MySQL
+->Languages: C, C++, Python
 
 ->Version Control: Git & GitHub
 

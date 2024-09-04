@@ -18,5 +18,5 @@ Basics of machine learning
 
  Get in Touch
  
-Email: shrutiverma130702@gmail.com
+Email: shrutiverma130702@gmail.com<br>
 GitHub: shruti1307git
